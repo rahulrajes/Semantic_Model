@@ -6,7 +6,7 @@ services:
     environment:
       POSTGRES_DB: semanticdb
       POSTGRES_USER: rahul_rajesh
-      POSTGRES_PASSWORD: HRhHgsajmc8V?&e
+      POSTGRES_PASSWORD: 
 
     ports:
       - "5431:5432"
